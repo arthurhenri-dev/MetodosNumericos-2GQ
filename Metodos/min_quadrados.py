@@ -1,5 +1,5 @@
 import numpy as np
-from Metodos.gauss import gauss, sistema_triangular
+from metodos.gauss import gauss, sistema_triangular
 
 
 def ajuste_polinomial_minimos_quadrados(x, y, grau=2):
