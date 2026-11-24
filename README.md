@@ -105,9 +105,9 @@ O Método dos Mínimos Quadrados é utilizado para encontrar uma função que re
 
 Neste projeto, foi escolhido um polinômio de segundo grau para representar o crescimento do armazenamento:
 
-\[
-p(m)=a+bm+cm^2
-\]
+$$
+P(m) = am^2+bm+c
+$$
 
 Onde:
 
