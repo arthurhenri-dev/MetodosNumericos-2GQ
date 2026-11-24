@@ -128,9 +128,9 @@ O sistema resultante é resolvido utilizando a Eliminação de Gauss implementad
 
 O polinômio encontrado foi:
 
-\[
-\boxed{p(m)=125,14568182+9,92926823m+1,90765984m^2}
-\]
+$$
+p(m)=125,14568182+9,92926823m+1,90765984m^2
+$$
 
 O coeficiente de determinação obtido foi aproximadamente:
 
