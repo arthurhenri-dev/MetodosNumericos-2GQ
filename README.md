@@ -118,9 +118,9 @@ A ideia é encontrar os coeficientes que produzam a menor soma dos quadrados das
 
 Para isso, são montadas as equações normais:
 
-\[
+$$
 (A^T A)c=A^T y
-\]
+$$
 
 O sistema resultante é resolvido utilizando a Eliminação de Gauss implementada pela equipe.
 
@@ -134,9 +134,9 @@ $$
 
 O coeficiente de determinação obtido foi aproximadamente:
 
-\[
+$$
 R^2=0,999574
-\]
+$$
 
 Esse resultado indica que o polinômio apresenta um ajuste muito próximo dos dados observados.
 
@@ -161,9 +161,9 @@ Diferentemente dos Mínimos Quadrados, que busca o melhor ajuste geral, a interp
 
 A expressão geral é:
 
-\[
+$$
 P(x)=\sum_{i=0}^{n}y_iL_i(x)
-\]
+$$
 
 Onde cada \(L_i(x)\) representa um polinômio fundamental de Lagrange.
 
@@ -181,9 +181,9 @@ Os valores utilizados foram:
 
 O resultado obtido foi aproximadamente:
 
-\[
-\boxed{P(5,5)\approx233,18\text{ TB}}
-\]
+$$
+P(5,5)\approx233,18\text{ TB}
+$$
 
 ### ✅ Vantagens
 
@@ -224,15 +224,15 @@ Após a obtenção do polinômio pelo Método dos Mínimos Quadrados, foi possí
 
 O modelo encontrado foi:
 
-\[
-p(m)=125,14568182+9,92926823m+1,90765984m^2
-\]
+$$
+P(m)=125,14568182+9,92926823m+1,90765984m^2
+$$
 
 A primeira previsão foi realizada para o mês 13:
 
-\[
-\boxed{p(13)\approx576,62\text{ TB}}
-\]
+$$
+P(13)\approx576,62\text{ TB}
+$$
 
 Esse resultado indica que a utilização continuará crescendo e se aproximará da capacidade atual de 600 TB.
 
